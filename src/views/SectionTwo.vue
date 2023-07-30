@@ -158,19 +158,20 @@
                 </div>
               </section>
             </article>
-            <div class="card card--horizontal ad-container">
-              <section class="card-content">
-                <div class="card__image-container">
-                  <a>
-                    <img
-                      src="../assets/images/small-img.jpg"
-                      class="d-block w-100 card__image--ad"
-                      alt="card image"
-                    />
-                  </a>
-                </div>
-              </section>
-            </div>
+            <article  class="card card--horizontal news--cont">
+                <section class="card-content">
+                  <div class="card__image-container">
+                    <a>
+                      <img
+                        src="../assets/images/img-4.jpg"
+                        class="d-block w-100 card__image--ad"
+                        alt="card image"
+                      />
+                    </a>
+                  </div>
+                </section>
+         
+            </article>
           </div>
           <div
             class="col-12 col-md-6 col-lg-4 d-flex flex-column justify-content-between"
